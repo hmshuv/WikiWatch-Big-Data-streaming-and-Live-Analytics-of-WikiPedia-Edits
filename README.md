@@ -32,6 +32,10 @@ The project follows a bronze-silver-gold data architecture pattern:
 3. **Visualization** (`dashboard/app.py`): Streamlit dashboard displays real-time analytics with auto-refresh
 
 ## 📊 Analytics
+<img width="1331" height="645" alt="Screenshot 2025-10-11 at 16 17 26" src="https://github.com/user-attachments/assets/754998ee-01a9-4954-9e54-52d364b077ac" />
+
+
+<img width="1306" height="655" alt="Screenshot 2025-10-11 at 16 17 52" src="https://github.com/user-attachments/assets/f8c1ac5e-7d1b-4e0a-88e0-b536d4b449e1" />
 
 ### 1. Edits per Minute by Project
 - Tumbling 1-minute windows
