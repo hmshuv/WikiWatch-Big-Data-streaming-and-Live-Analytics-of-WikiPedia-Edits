@@ -1,0 +1,25 @@
+# Core dependencies for WikiWatch
+streamlit>=1.50.0
+pandas>=2.3.3
+pyspark>=3.5.1
+pyarrow>=21.0.0
+requests>=2.32.5
+sseclient-py>=1.8.0
+
+# Data processing and visualization
+numpy>=2.3.3
+altair>=5.5.0
+
+# Utilities
+python-dateutil>=2.9.0
+pytz>=2025.2
+packaging>=25.0
+click>=8.3.0
+
+# Optional: Git integration
+GitPython>=3.1.45
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
